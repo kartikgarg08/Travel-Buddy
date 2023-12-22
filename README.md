@@ -1,10 +1,10 @@
 # Travel-Buddy
 
-*Goal* - Designed an application that allow users to search and find information about a place they want to visit all in one place.
+*Goal* - Developed a comprehensive travel application empowering users to effortlessly access information about desired destinations, including restaurants, hotels, and attractions.
 
-*Technologies used* - React, Material UI, Travel Advisor API, Maps JavaScript API & Places API from Google Cloud Platform.
+*Technologies used* - ReactJS, Material UI, Travel Advisor API, Maps JavaScript API & Places API (Google Cloud Platform)
 
-*Result* - Having all the information about every place at one place saved users time.
+*Result* - Centralized destination details in one platform, saving users time and enhancing their travel experience with interactive maps and efficient filtering based on ratings.
 
 *Deployed* - https://travel-buddy-2022.netlify.app/
 
